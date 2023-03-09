@@ -20,3 +20,5 @@ Le projet peut ensuite etre déployer sur deux blockchains :
 - Pour Goerli : 
 
         truffle migrate --network goerli 
+
+Addresse du contrat sur Mumbai : 0x14bA5bE12d61e546e75FA56dDaF71e93299820a1 (https://mumbai.polygonscan.com/address/0x14ba5be12d61e546e75fa56ddaf71e93299820a1)
